@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
 <h1 align="center">Hi 👋, I'm Henriette Uwizeyimana</h1>
 <h3 align="center">A passionate Software Engineer from Rwanda</h3>
-<img align="right" alt="Coding" width="300" src="https://cdnb.artstation.com/p/assets/images/images/007/854/253/large/rothana-chhourm-super-hacker.jpg?1508943126">
+<img align="right" alt="Coding" width="300" src="https://cdnb.artstation.com/p/assets/images/images/007/854/263/original/rothana-chhourm-ezgif-com-resize-4.gif?1508943159">
 
 - 🔭 I’m currently working on **Driver Drowsiness detection.**
 
