@@ -3,17 +3,13 @@
 <h3 align="center">A passionate Software Engineer from Rwanda</h3>
 <img align="right" alt="Coding" width="300" src="https://cdnb.artstation.com/p/assets/images/images/007/854/263/original/rothana-chhourm-ezgif-com-resize-4.gif?1508943159">
 
-- 🔭 I’m currently working on **Driver Drowsiness detection.**
+- 🌱 I’m currently learning **Python,Javascript,ReactJS,React Native**
 
-- 🌱 I’m currently learning **Python,Javascript,UI/UX Design**
-
-- 💬 Ask me about **UI/UX Design, HTML/CSS**
+- 💬 Ask me about **UI/UX Design, HTML/CSS, ReactJS, Javascript**
 
 - 📫 How to reach me **henuwz@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/16Rb4cSh6Xh6zCqK1eM9cFPaH5l01YXXnfH1MB6b_SLk/edit?usp=sharing](https://docs.google.com/document/d/16Rb4cSh6Xh6zCqK1eM9cFPaH5l01YXXnfH1MB6b_SLk/edit?usp=sharing)
-
-- ⚡ Fun fact **I am funny indeed**
+- ⚡ Fun fact **I am An Artist**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
